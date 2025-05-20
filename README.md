@@ -1,9 +1,9 @@
 # Hi there, I'm Rajan Shukla 👋
 
-🎓 Undergraduate Student | 📊 Statistics Major  
+🎓 Graduate Student | 📊 Statistics Major | Information Technology 
 🌱 Currently learning: Data Science, Machine Learning, and Python  
 💼 Passionate about Data Analytics, Statistical Modeling & Quant Projects  
-📫 Reach me: [Email](mailto:Rajan2shukla@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+📫 Reach me: [Email](mailto:Rajan2shukla@gmail.com) | [LinkedIn](https:www.linkedin.com/in/rshukla17)
 
 ---
 
