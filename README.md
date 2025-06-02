@@ -2,7 +2,7 @@
 
 🎓 Graduate Student | 📊 Statistics Major | Information Technology 
 🌱 Currently learning: Data Science, Machine Learning, and Python  
-💼 Passionate about Data Analytics, Statistical Modeling & Quant Projects  
+💼 Passionate about Data Analytics, Econometrics and Statistical Modeling & Quant Projects  
 📫 Reach me: [Email](mailto:Rajan2shukla@gmail.com) | [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEWJ5t0zxT8KymeiCZPWGhw%3D%3D))
 
 ---
