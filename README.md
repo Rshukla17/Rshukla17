@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Exploring the intersection of **statistics**, **machine learning**, and **real-world data**
+- 👨‍💻 Exploring the intersection of **statistics**,**finance**,**economics**, **machine learning**, and **real-world data**
 - 🧪 Currently working on:
   - 📉 Quantitative finance mini-projects
   - 📊 Data visualization using Python (Matplotlib, Seaborn)
